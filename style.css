@@ -233,11 +233,11 @@ h2 {
 }
 
 /* Exceptions for interst */
-.form.form--Loan {
+.form.form--loan {
   grid-template-columns: 2.5fr 1fr 2.5fr;
 }
 
-.form__label--Loan {
+.form__label--loan {
   grid-row: 2;
 }
 
