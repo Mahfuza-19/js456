@@ -67,7 +67,7 @@ function displayMovements(movements) {
           1 ${type}
         </div>
         <div class="movements__date">24/01/2037</div>
-        <div class="movements__value">${move}</div>
+        <div class="movements__value">${move} $</div>
       </div>`;
     containerMovements.insertAdjacentHTML('afterbegin', html);
   });
